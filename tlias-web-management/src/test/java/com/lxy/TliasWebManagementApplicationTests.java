@@ -66,6 +66,7 @@ class TliasWebManagementApplicationTests {
         System.out.println(bean3);
         System.out.println("test git lxy!");
         System.out.println("master test!");
+        System.out.println("hot-fix test!");
     }
 
 }
