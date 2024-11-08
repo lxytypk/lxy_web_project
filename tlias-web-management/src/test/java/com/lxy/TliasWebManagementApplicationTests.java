@@ -64,7 +64,7 @@ class TliasWebManagementApplicationTests {
         //根据bean的名称 及 类型获取
         DeptController bean3 = applicationContext.getBean("deptController", DeptController.class);
         System.out.println(bean3);
-        System.out.println("test git!");
+        System.out.println("test git lxy!");
     }
 
 }
